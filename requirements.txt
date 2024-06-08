@@ -1,0 +1,16 @@
+To build and run the ESP32 web server project that interfaces with a DHT11 sensor, you’ll need the following:
+
+Hardware Components:
+An ESP32 development board.
+A DHT11 temperature and humidity sensor.
+A 10k Ohm pull-up resistor (if using the sensor without a module).
+A breadboard and jumper wires for connections.
+Software and Libraries:
+Arduino IDE installed on your computer.
+The WiFi.h library for connecting the ESP32 to a Wi-Fi network.
+The WebServer.h library to create the web server.
+The DHT.h library for interfacing with the DHT11 sensor.
+Network Credentials:
+SSID and password of the Wi-Fi network you want to connect the ESP32 to.
+Power Supply:
+A micro USB cable to power the ESP32 board.
